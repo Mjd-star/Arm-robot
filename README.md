@@ -13,4 +13,4 @@
 * Fifth: the handle is mounted to the mechanism with the last arm
 
 ## program used
-Tinkercad
+* Tinkercad
